@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/src/java/proverbs/models/Proverb.java</file>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/src/java/proverbs/models/Tag.java</file>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/src/java/CrawlServlet.java</file>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/src/java/proverbs/crawler/WebCrawler.java</file>
+            <file>file:/C:/Users/soumukil/Documents/ProverbWebApp/src/java/proverbs/models/URL.java</file>
+        </group>
+    </open-files>
+</project-private>
